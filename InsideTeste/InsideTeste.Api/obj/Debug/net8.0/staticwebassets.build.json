@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HknB+iD6jIWPuN6P1gaFDfSQ8BKC85vwmUaKgM5dyIY=",
+  "Source": "InsideTeste.Api",
+  "BasePath": "_content/InsideTeste.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

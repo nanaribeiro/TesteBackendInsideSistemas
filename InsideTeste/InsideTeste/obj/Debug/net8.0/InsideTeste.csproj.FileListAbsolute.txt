@@ -1,0 +1,17 @@
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\InsideTeste.deps.json
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\InsideTeste.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\InsideTeste.pdb
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\refint\InsideTeste.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.pdb
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\ref\InsideTeste.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\Inside.Teste.Enumerator.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\Inside.Teste.Enumerator.pdb
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTeste.csproj.AssemblyReference.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\obj\Debug\net8.0\InsideTe.914D18DA.Up2Date
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\InsideTeste.Language.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste\bin\Debug\net8.0\InsideTeste.Language.pdb

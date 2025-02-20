@@ -1,0 +1,5 @@
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.DbContext.csproj.AssemblyReference.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.DbContext.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.DbContext.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.DbContext.csproj.CoreCompileInputs.cache

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InsideTeste/1.0.0": {
+        "dependencies": {
+          "Inside.Teste.Enumerator": "1.0.0",
+          "InsideTeste.Language": "1.0.0"
+        },
+        "runtime": {
+          "InsideTeste.dll": {}
+        }
+      },
+      "Inside.Teste.Enumerator/1.0.0": {
+        "runtime": {
+          "Inside.Teste.Enumerator.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InsideTeste.Language/1.0.0": {
+        "runtime": {
+          "InsideTeste.Language.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsideTeste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inside.Teste.Enumerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InsideTeste.Language/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

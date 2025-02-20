@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inside.Teste.Enumerator\Inside.Teste.Enumerator.csproj" />
+    <ProjectReference Include="..\InsideTeste.Language\InsideTeste.Language.csproj" />
+  </ItemGroup>
+
+</Project>

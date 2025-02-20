@@ -1,0 +1,11 @@
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\bin\Debug\net8.0\Inside.Teste.Enumerator.deps.json
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\bin\Debug\net8.0\Inside.Teste.Enumerator.dll
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\bin\Debug\net8.0\Inside.Teste.Enumerator.pdb
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\Inside.Teste.Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\Inside.Teste.Enumerator.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\Inside.Teste.Enumerator.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\Inside.Teste.Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\Inside.Teste.Enumerator.dll
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\refint\Inside.Teste.Enumerator.dll
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\Inside.Teste.Enumerator.pdb
+C:\Users\Usuari\source\repos\InsideTeste\Inside.Teste.Enumerator\obj\Debug\net8.0\ref\Inside.Teste.Enumerator.dll

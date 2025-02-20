@@ -1,0 +1,17 @@
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\bin\Debug\net8.0\InsideTeste.Database.deps.json
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\bin\Debug\net8.0\InsideTeste.Database.runtimeconfig.json
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\bin\Debug\net8.0\InsideTeste.Database.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\bin\Debug\net8.0\InsideTeste.Database.pdb
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.csproj.AssemblyReference.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\refint\InsideTeste.Database.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.pdb
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTeste.Database.genruntimeconfig.cache
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\ref\InsideTeste.Database.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\bin\Debug\net8.0\Inside.Teste.Enumerator.dll
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\bin\Debug\net8.0\Inside.Teste.Enumerator.pdb
+C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.DbContext\obj\Debug\net8.0\InsideTe.CAF346AA.Up2Date

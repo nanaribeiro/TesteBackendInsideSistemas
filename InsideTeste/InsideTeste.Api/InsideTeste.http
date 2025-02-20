@@ -1,0 +1,6 @@
+@InsideTeste_HostAddress = http://localhost:5207
+
+GET {{InsideTeste_HostAddress}}/order/
+Accept: application/json
+
+###

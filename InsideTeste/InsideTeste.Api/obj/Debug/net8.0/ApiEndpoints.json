@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "InsideTeste.Api.Controllers.OrdersController",
+    "Method": "NewOrder",
+    "RelativePath": "Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsideTeste.Api.Controllers.OrdersController",
+    "Method": "CloseOrder",
+    "RelativePath": "Orders/close-order",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsideTeste.Api.Controllers.OrdersController",
+    "Method": "GetOrderAndProducts",
+    "RelativePath": "Orders/order-and-product/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsideTeste.Api.Controllers.OrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "Orders/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderStatus",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsideTeste.Api.Controllers.OrdersController",
+    "Method": "RemoveProducts",
+    "RelativePath": "Orders/product-from-order",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productOrder",
+        "Type": "InsideTeste.Models.ProductOrder",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsideTeste.Api.Controllers.OrdersController",
+    "Method": "AddProducts",
+    "RelativePath": "Orders/product-to-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productOrder",
+        "Type": "InsideTeste.Models.ProductOrder",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
