@@ -5,7 +5,7 @@
         public static IServiceCollection AddServiceDependencyGroup(
              this IServiceCollection services)
         {
-            services.AddTransient<IOrderService, OrderService>();
+            services.AddScoped<IOrderService, OrderService>();
 
             return services;
         }

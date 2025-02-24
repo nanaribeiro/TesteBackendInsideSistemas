@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsideTeste.QueryStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cae77618203038c362603d9f102136a3d3a72c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b8c1051d4485c54e185e7a7ae8f9b50aaaf4b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsideTeste.QueryStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsideTeste.QueryStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

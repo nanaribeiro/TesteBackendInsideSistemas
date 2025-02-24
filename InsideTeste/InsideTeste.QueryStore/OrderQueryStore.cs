@@ -8,12 +8,13 @@ namespace InsideTeste.QueryStore
     public class OrderQueryStore(ApplicationDbContext applicationDbContext) : IOrderQueryStore
     {
         private readonly ApplicationDbContext _applicationDbContext = applicationDbContext;
+        private const int POSITION = 5;
 
         public async Task<List<OrderModel>> GetOrders(EOrderStatus? status)
         {
             try
             {
-                List<OrderModel> orders = new();
+                List<OrderModel> orders = [];
                 if (status != null)
                 {
                     orders = await _applicationDbContext.Orders.Where(o => o.Status == status).
@@ -22,7 +23,11 @@ namespace InsideTeste.QueryStore
                             Id = x.Id,
                             Date = x.Date,
                             Status = x.Status
-                        }).ToListAsync();
+                        })
+                        .OrderBy(x => x.Date)
+                        .Skip(POSITION)
+                        .Take(3)
+                        .ToListAsync();
                 }
                 else
                 {

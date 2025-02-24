@@ -28,7 +28,7 @@ public class OrderService(IOrderCommandStore orderCommandStore, IOrderQueryStore
                 exceptions.Add(new Exception(string.Format(Messages.ProductDoesNotExist, productId)));
         }
 
-        if(exceptions != null)
+        if(exceptions.Count != 0)
             throw new AggregateException(Messages.MultipleProductsMissing, exceptions);
 
         return Task.CompletedTask.IsCompletedSuccessfully;

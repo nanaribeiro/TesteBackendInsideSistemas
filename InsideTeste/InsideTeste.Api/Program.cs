@@ -45,7 +45,7 @@ static void AddTestData(ApplicationDbContext context)
     [
         new()
         {
-            Id = Guid.NewGuid(),
+            Id = new Guid("42D42D5C-3FF2-EF11-A1FB-4484C582882F"),
             Name = "Smartphone Samsung Galaxy S23",
             Description = "Smartphone com tela de 6,1 polegadas, processador Snapdragon 8 Gen 2, " +
                           "câmera traseira de 50 MP e bateria de 3900 mAh.",
@@ -53,7 +53,7 @@ static void AddTestData(ApplicationDbContext context)
         },
         new()
         {
-            Id = Guid.NewGuid(),
+            Id = new Guid("CC17796B-3FF2-EF11-AB9B-7E84C582882F"),
             Name = "Cafeteira Elétrica Oster 127V",
             Description = "Cafeteira elétrica com capacidade de 1,2 L, filtro permanente, e design " +
                           "moderno para preparar café rapidamente.",
@@ -61,7 +61,7 @@ static void AddTestData(ApplicationDbContext context)
         },
         new()
         {
-            Id = Guid.NewGuid(),
+            Id = new Guid("92BD5875-3FF2-EF11-9008-DC84C582882F"),
             Name = "Cadeira Gamer DXRacer King Series",
             Description = "Cadeira ergonômica com apoio de braço ajustável, suporte lombar e assento reclinável, " +
                           "ideal para longas sessões de jogo.",
@@ -69,7 +69,7 @@ static void AddTestData(ApplicationDbContext context)
         },
         new()
         {
-            Id = Guid.NewGuid(),
+            Id = new Guid("A0B0F07C-3FF2-EF11-9037-EF84C582882F"),
             Name = "Fone de Ouvido Bluetooth JBL Tune 500BT",
             Description = "Fone de ouvido Bluetooth com som de alta qualidade, até 16 horas de bateria e design " +
                           "dobrável para fácil transporte.",
@@ -78,7 +78,7 @@ static void AddTestData(ApplicationDbContext context)
         ,
         new()
         {
-            Id = Guid.NewGuid(),
+            Id = new Guid("A84698A0-3FF2-EF11-9556-6285C582882F"),
             Name = "Notebook Dell Inspiron 15 5000",
             Description = "Notebook com processador Intel Core i5, 8GB de RAM, 512GB de SSD e tela Full HD de " +
                           "15,6 polegadas.",

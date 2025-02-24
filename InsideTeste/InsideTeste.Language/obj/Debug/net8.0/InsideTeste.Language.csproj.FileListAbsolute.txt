@@ -11,3 +11,17 @@ C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\I
 C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\refint\InsideTeste.Language.dll
 C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.pdb
 C:\Users\Usuari\source\repos\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\ref\InsideTeste.Language.dll
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\bin\Debug\net8.0\InsideTeste.Language.deps.json
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\bin\Debug\net8.0\InsideTeste.Language.dll
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\bin\Debug\net8.0\InsideTeste.Language.pdb
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.Messages.resources
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.csproj.GenerateResource.cache
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.AssemblyInfoInputs.cache
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.AssemblyInfo.cs
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.sourcelink.json
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.dll
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\refint\InsideTeste.Language.dll
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\InsideTeste.Language.pdb
+C:\Users\Usuari\TesteBackendInsideSistemas\InsideTeste\InsideTeste.Language\obj\Debug\net8.0\ref\InsideTeste.Language.dll

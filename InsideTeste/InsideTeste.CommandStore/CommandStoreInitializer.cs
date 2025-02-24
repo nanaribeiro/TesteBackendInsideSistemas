@@ -7,7 +7,7 @@ namespace InsideTeste.CommandStore
         public static IServiceCollection AddCommandStoreDependencyGroup(
              this IServiceCollection services)
         {
-            services.AddTransient<IOrderCommandStore, OrderCommandStore>();
+            services.AddScoped<IOrderCommandStore, OrderCommandStore>();
 
             return services;
         }
